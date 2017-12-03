@@ -1,0 +1,27 @@
+/* #wrapper {
+    background: #cdcdcd ; 
+    repeat-x;
+}
+
+#header {
+    width: 60%;
+    margin: 50 50 50 50;
+    
+}
+
+#logo{
+    float: left;
+    margin-left: 10px;
+    width: 300px;
+} */
+#head_bg{
+    background-color: #d3b7e8;
+}
+#head_right{
+    text-align: right;
+}
+img#hero {
+    width : 100%;
+    margin-left: 10%;
+    padding: 0.25em;
+}
